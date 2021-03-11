@@ -101,6 +101,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/meinestadt.de/"
+    - label: "Impressum"
+      icon: "fab fa-fw fa-file-alt"
+      url: "https://www.meinestadt.de/impressum/"
 
 defaults:
   # _posts
