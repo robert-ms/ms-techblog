@@ -14,5 +14,4 @@ excerpt: >
   <small>Come and join us if you like to be part of the journey!</small>
 ---
 # meinestadt.de Tech-Blog
-In diesem Blog erzählen wir etwas von unserer täglichen Arbeit "unter der Motorhaube" von meinestadt.de. Hier bekommen die Techies und die Nerds ein Sprachrohr.
-
+In diesem Blog erzählen wir etwas von unserer täglichen Arbeit "unter der Motorhaube" von meinestadt.de. Das ist der Kanal für die Techies und die Nerds und alle, die es interessiert, woran wir und wie wir arbeiten.
