@@ -1,16 +1,16 @@
 ---
-layout: splash
+layout: home
 permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/home-banner.png
   actions:
-    - label: "<i class='fas fa-users'></i> Jobs @ meinestadt.de"
+    - label: "<i class='fas fa-users'></i>&nbsp;&nbsp;Jobs @ meinestadt.de"
       url: "https://meinjob.meinestadt.de/"
 excerpt: >
-  A flexible two-column theme! Perfect for building personal sites, blogs, and portfolios.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.22.0">Latest release v4.22.0</a></small>
+  From the adventures of a great team with exciting challenges in an inspiring environment.<br />
+  <small>Come and join us if you like to be part of the journey!</small>
 feature_row:
   - image_path: /assets/images/jobshop_startseite.jpg
     alt: "customizable"
