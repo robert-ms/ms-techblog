@@ -2,7 +2,6 @@
 layout: home
 permalink: /
 entries_layout: grid
-classes: wide
 hidden: true
 header:
   overlay_color: "#5e616c"
@@ -14,4 +13,6 @@ excerpt: >
   From the adventures of a great team with exciting challenges in an inspiring environment.<br />
   <small>Come and join us if you like to be part of the journey!</small>
 ---
-TEST
+# meinestadt.de Tech-Blog
+In diesem Blog erzählen wir etwas von unserer täglichen Arbeit "unter der Motorhaube" von meinestadt.de. Hier bekommen die Techies und die Nerds ein Sprachrohr.
+
