@@ -3,6 +3,7 @@ layout: home
 classes: wide
 permalink: /
 hidden: true
+entries_layout: grid
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/home-banner.png
