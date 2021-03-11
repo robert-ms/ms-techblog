@@ -506,7 +506,7 @@ de: &DEFAULT_DE
   comments_title             : "Kommentare"
   more_label                 : "Mehr anzeigen"
   related_label              : "Ihnen gefällt vielleicht auch"
-  follow_label               : "Folgen:"
+  follow_label               : ""
   feed_label                 : "Feed"
   powered_by                 : "Powered by"
   website_label              : "Webseite"
